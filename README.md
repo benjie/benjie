@@ -10,7 +10,7 @@ helps me spend more time on OSS.
 - 🐤 [Twitter: @benjie](https://twitter.com/benjie) ─ code, OSS sustainability,
   and more
 - 💬 Chat on [Graphile Discord](https://discord.gg/graphile) or
-  [GraphQL Slack](https://graphql-slack.herokuapp.com/) ─ I'm friendly
+  [GraphQL Discord](https://discord.graphql.org/) ─ I'm friendly
 - 💙 Personal goal ─ spend more time working on OSS
 - 💭 Working groups:
   - [GraphQL Spec WG](https://github.com/graphql/graphql-wg) ─
