@@ -9,6 +9,7 @@ helps me spend more time on OSS.
 - 📞 [Book a call](https://benjie.dev) ─ I can help
 - 🐤 [Twitter: @benjie](https://twitter.com/benjie) ─ code, OSS sustainability,
   and more
+- 🐘 <a rel="me" href="https://mastodon.social/@Benjie">@benjie@mastodon.social</a>
 - 💬 Chat on [Graphile Discord](https://discord.gg/graphile) or
   [GraphQL Discord](https://discord.graphql.org/) ─ I'm friendly
 - 💙 Personal goal ─ spend more time working on OSS
